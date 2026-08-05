@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/rafae/Documents/MeusProgetos/ed1-algorithms-exercises-cpp/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JETBRA~1\\CLion 2026.2.0.1\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\ed1_algorithms_exercises_cpp.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\ed1_algorithms_exercises_cpp.dir\\main.cpp.obj -c C:\\Users\\rafae\\Documents\\MeusProgetos\\ed1-algorithms-exercises-cpp\\main.cpp",
+  "file": "C:/Users/rafae/Documents/MeusProgetos/ed1-algorithms-exercises-cpp/main.cpp",
+  "output": "C:/Users/rafae/Documents/MeusProgetos/ed1-algorithms-exercises-cpp/cmake-build-debug/CMakeFiles/ed1_algorithms_exercises_cpp.dir/main.cpp.obj"
+}
+]
