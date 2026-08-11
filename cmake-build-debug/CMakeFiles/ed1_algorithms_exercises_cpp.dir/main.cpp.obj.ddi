@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\ed1_algorithms_exercises_cpp.dir\\main.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
